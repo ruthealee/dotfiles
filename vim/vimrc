@@ -1,0 +1,7 @@
+set rtp+=$HOME/.local/lib/python2.6/site-packages/powerline/bindings/vim
+set laststatus=2 " always show this statusline in all windows
+set t_Co=256 "colours
+set showtabline=2 " always show the tabline even if only one tab
+set noshowmode " hides the default mode under the status line
+syntax on
+color dracula
